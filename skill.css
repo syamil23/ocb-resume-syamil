@@ -1,0 +1,21 @@
+.navbar {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.home-1, .pe-2, .skills, .projects, .education {
+    padding: 0px 25px 0px 25px;
+}
+.font {
+    font-size: 80px;
+    padding-left: 30px;
+    font-weight: 200;
+}
+
+.d-skill, .l-skill, .o-skill {
+    padding-left: 42%;
+}
+
+.title {
+    padding-left: 40%;
+}

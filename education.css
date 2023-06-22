@@ -1,0 +1,22 @@
+.navbar {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.home-1, .pe-2, .skills, .projects, .education {
+    padding: 0px 25px 0px 25px;
+}
+
+.font {
+    font-size: 80;
+    font-weight: 100;
+    padding-left: 42%;
+}
+
+.logo-mckk {
+    height: 200px;
+}
+
+.university, .h-school {
+padding-left: 45%;
+}
